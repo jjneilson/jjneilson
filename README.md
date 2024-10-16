@@ -1,9 +1,7 @@
 ## About Myself
   - Pronouns: he/him
   - My interests are focused on computer software, software development, machine learning, natural language processing, and large language models.
-  - Studying Computer Science at the University of Delaware
-  - Expected Grad Term is Spring 2024
-  - Working on a concentration involving Artificial Intelligence and Robotics
+  - Recently graduated from the University of Delaware with a BS in Computer Science
   - Also have a Minor in Mathematics Involving the following courses:
     - MATH 349: Elementary Linear Algebra
     - MATH 426/CISC 410: Computer Mathematics I
