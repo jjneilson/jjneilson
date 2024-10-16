@@ -7,7 +7,7 @@
     - MATH 426/CISC 410: Computer Mathematics I
     - MATH 428/CISC 411: Computer Mathematics II
   - Currently in the search for roles involving Machine Learning, Computer Vision, Natural Language Processing, or Large Language Models
-  - Also looking for general software development roles in addition
+  - Also looking for general software roles ranging from either front-end to back-end development.
 ### Useful Links:
   - LinkedIn  - https://www.linkedin.com/in/john-neilson-674b771b1/
 ### I can be reached at:
